@@ -1,0 +1,1507 @@
+{
+  "periods": [
+    {
+      "id": "1",
+      "code": "P24-01",
+      "year": 2024,
+      "semester": 1
+    },
+    {
+      "id": "2",
+      "code": "P24-02",
+      "year": 2024,
+      "semester": 2
+    }
+  ],
+  "programs": [
+    {
+      "id": "1",
+      "name": "Ingeniería de Sistemas",
+      "nivel": "Pregrado"
+    },
+    {
+      "id": "2",
+      "name": "Ingeniería de Mecatronica",
+      "nivel": "Pregrado"
+    },
+    {
+      "id": "3",
+      "name": "Ingeniería Civil",
+      "nivel": "Pregrado"
+    },
+    {
+      "id": "4",
+      "name": "Administración de Empresas",
+      "nivel": "Pregrado"
+    },
+    {
+      "id": "5",
+      "name": "Psicología",
+      "nivel": "Pregrado"
+    },
+    {
+      "id": "6",
+      "name": "Arquitectura",
+      "nivel": "Pregrado"
+    },
+    {
+      "id": "7",
+      "name": "Diseño Gráfico",
+      "nivel": "Pregrado"
+    },
+    {
+      "id": "8",
+      "name": "Biología",
+      "nivel": "Pregrado"
+    },
+    {
+      "id": "9",
+      "name": "Química",
+      "nivel": "Pregrado"
+    },
+    {
+      "id": "10",
+      "name": "Matemáticas",
+      "nivel": "Pregrado"
+    }
+  ],
+  "fees": [
+    {
+      "id": "1",
+      "cost": 1000,
+      "period": 1,
+      "program_id": 1
+    },
+    {
+      "id": "2",
+      "cost": 1100,
+      "period": 1,
+      "program_id": 2
+    },
+    {
+      "id": "3",
+      "cost": 1200,
+      "period": 1,
+      "program_id": 3
+    },
+    {
+      "id": "4",
+      "cost": 1300,
+      "period": 1,
+      "program_id": 4
+    },
+    {
+      "id": "5",
+      "cost": 1400,
+      "period": 1,
+      "program_id": 5
+    },
+    {
+      "id": "6",
+      "cost": 1500,
+      "period": 1,
+      "program_id": 6
+    },
+    {
+      "id": "7",
+      "cost": 1600,
+      "period": 1,
+      "program_id": 7
+    },
+    {
+      "id": "8",
+      "cost": 1700,
+      "period": 1,
+      "program_id": 8
+    },
+    {
+      "id": "9",
+      "cost": 1800,
+      "period": 1,
+      "program_id": 9
+    },
+    {
+      "id": "10",
+      "cost": 1900,
+      "period": 1,
+      "program_id": 10
+    },
+    {
+      "id": "11",
+      "cost": 2000,
+      "period": 1,
+      "program_id": 11
+    },
+    {
+      "id": "12",
+      "cost": 2100,
+      "period": 1,
+      "program_id": 12
+    },
+    {
+      "id": "13",
+      "cost": 2200,
+      "period": 1,
+      "program_id": 13
+    },
+    {
+      "id": "14",
+      "cost": 2300,
+      "period": 1,
+      "program_id": 14
+    },
+    {
+      "id": "15",
+      "cost": 2400,
+      "period": 1,
+      "program_id": 15
+    },
+    {
+      "id": "16",
+      "cost": 2500,
+      "period": 1,
+      "program_id": 16
+    },
+    {
+      "id": "17",
+      "cost": 2600,
+      "period": 1,
+      "program_id": 17
+    },
+    {
+      "id": "18",
+      "cost": 2700,
+      "period": 1,
+      "program_id": 18
+    },
+    {
+      "id": "19",
+      "cost": 2800,
+      "period": 1,
+      "program_id": 19
+    },
+    {
+      "id": "20",
+      "cost": 2900,
+      "period": 1,
+      "program_id": 20
+    }
+  ],
+  "departments": [
+    {
+      "id": "1",
+      "nombre": "Departamento de Informática"
+    },
+    {
+      "id": "2",
+      "nombre": "Departamento de Matemáticas"
+    },
+    {
+      "id": "3",
+      "nombre": "Departamento de Ingeniería Eléctrica"
+    },
+    {
+      "id": "4",
+      "nombre": "Departamento de Lenguas Extranjeras"
+    },
+    {
+      "id": "5",
+      "nombre": "Departamento de Ciencias Sociales"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "1",
+      "tipo_documento": "CC",
+      "numero_documento": "13788555",
+      "nombre": "Juan",
+      "apellido": "Pérez",
+      "departamento_id": 1
+    },
+    {
+      "id": "2",
+      "tipo_documento": "CC",
+      "numero_documetno": "137880000",
+      "nombre": "María",
+      "apellido": "Gómez",
+      "departamento_id": 2
+    },
+    {
+      "id": "3",
+      "tipo_documento": "CC",
+      "numero_documetno": "137881111",
+      "nombre": "Carlos",
+      "apellido": "López",
+      "departamento_id": 1
+    },
+    {
+      "id": "4",
+      "tipo_documento": "CC",
+      "numero_documetno": "137882222",
+      "nombre": "Ana",
+      "apellido": "Martínez",
+      "departamento_id": 2
+    },
+    {
+      "id": "5",
+      "tipo_documento": "CC",
+      "numero_documetno": "137883333",
+      "nombre": "Pedro",
+      "apellido": "García",
+      "departamento_id": 1
+    },
+    {
+      "id": "6",
+      "tipo_documento": "CC",
+      "numero_documetno": "137884444",
+      "nombre": "Laura",
+      "apellido": "Hernández",
+      "departamento_id": 2
+    },
+    {
+      "id": "7",
+      "tipo_documento": "CC",
+      "numero_documetno": "137885555",
+      "nombre": "Jorge",
+      "apellido": "Díaz",
+      "departamento_id": 1
+    },
+    {
+      "id": "8",
+      "tipo_documento": "CC",
+      "numero_documetno": "137886666",
+      "nombre": "Sofía",
+      "apellido": "Vargas",
+      "departamento_id": 2
+    },
+    {
+      "id": "9",
+      "tipo_documento": "CC",
+      "numero_documetno": "137886667",
+      "nombre": "Alejandro",
+      "apellido": "López",
+      "departamento_id": 2
+    },
+    {
+      "id": "10",
+      "tipo_documento": "CC",
+      "numero_documetno": "137886668",
+      "nombre": "Valentina",
+      "apellido": "Gómez",
+      "departamento_id": 2
+    },
+    {
+      "id": "11",
+      "tipo_documento": "CC",
+      "numero_documetno": "137886669",
+      "nombre": "Diego",
+      "apellido": "Martínez",
+      "departamento_id": 2
+    },
+    {
+      "id": "12",
+      "tipo_documento": "CC",
+      "numero_documetno": "137886670",
+      "nombre": "Camila",
+      "apellido": "Hernández",
+      "departamento_id": 2
+    },
+    {
+      "id": "13",
+      "tipo_documento": "CC",
+      "numero_documetno": "137886671",
+      "nombre": "Lucas",
+      "apellido": "García",
+      "departamento_id": 2
+    },
+    {
+      "id": "14",
+      "tipo_documento": "CC",
+      "numero_documetno": "137886672",
+      "nombre": "Marcela",
+      "apellido": "Díaz",
+      "departamento_id": 2
+    },
+    {
+      "id": "15",
+      "tipo_documento": "CC",
+      "numero_documetno": "137886673",
+      "nombre": "Andrés",
+      "apellido": "Pérez",
+      "departamento_id": 2
+    },
+    {
+      "id": "16",
+      "tipo_documento": "CC",
+      "numero_documetno": "137886674",
+      "nombre": "Gabriela",
+      "apellido": "Vega",
+      "departamento_id": 2
+    },
+    {
+      "id": "17",
+      "tipo_documento": "CC",
+      "numero_documetno": "137886675",
+      "nombre": "Daniel",
+      "apellido": "Rojas",
+      "departamento_id": 2
+    },
+    {
+      "id": "18",
+      "tipo_documento": "CC",
+      "numero_documetno": "137886676",
+      "nombre": "Carolina",
+      "apellido": "Fernández",
+      "departamento_id": 2
+    },
+    {
+      "id": "19",
+      "tipo_documento": "CC",
+      "numero_documetno": "137886677",
+      "nombre": "José",
+      "apellido": "Luna",
+      "departamento_id": 2
+    },
+    {
+      "id": "20",
+      "tipo_documento": "CC",
+      "numero_documetno": "137886678",
+      "nombre": "Ana",
+      "apellido": "González",
+      "departamento_id": 2
+    },
+    {
+      "id": "21",
+      "tipo_documento": "CC",
+      "numero_documetno": "137886679",
+      "nombre": "Carlos",
+      "apellido": "Martínez",
+      "departamento_id": 2
+    },
+    {
+      "id": "22",
+      "tipo_documento": "CC",
+      "numero_documetno": "137886680",
+      "nombre": "María",
+      "apellido": "Gómez",
+      "departamento_id": 2
+    },
+    {
+      "id": "23",
+      "tipo_documento": "CC",
+      "numero_documetno": "137886681",
+      "nombre": "Pedro",
+      "apellido": "Rodríguez",
+      "departamento_id": 2
+    },
+    {
+      "id": "24",
+      "tipo_documento": "CC",
+      "numero_documetno": "137886682",
+      "nombre": "Laura",
+      "apellido": "Hernández",
+      "departamento_id": 2
+    },
+    {
+      "id": "25",
+      "tipo_documento": "CC",
+      "numero_documetno": "137886683",
+      "nombre": "Juan",
+      "apellido": "Pérez",
+      "departamento_id": 2
+    },
+    {
+      "id": "26",
+      "tipo_documento": "CC",
+      "numero_documetno": "137886684",
+      "nombre": "Sofía",
+      "apellido": "Vargas",
+      "departamento_id": 2
+    },
+    {
+      "id": "27",
+      "tipo_documento": "CC",
+      "numero_documetno": "137886685",
+      "nombre": "Diego",
+      "apellido": "Gutiérrez",
+      "departamento_id": 2
+    },
+    {
+      "id": "28",
+      "tipo_documento": "CC",
+      "numero_documetno": "137886686",
+      "nombre": "Ana",
+      "apellido": "López",
+      "departamento_id": 2
+    },
+    {
+      "id": "29",
+      "tipo_documento": "CC",
+      "numero_documetno": "137886687",
+      "nombre": "Marcela",
+      "apellido": "Martínez",
+      "departamento_id": 2
+    },
+    {
+      "id": "30",
+      "tipo_documento": "CC",
+      "numero_documetno": "137886688",
+      "nombre": "Andrés",
+      "apellido": "Gómez",
+      "departamento_id": 2
+    },
+    {
+      "id": 31,
+      "document_type": "cc",
+      "document_number": "1098",
+      "first_name": "camilo",
+      "last_name": "rodriguez",
+      "deparment_id": "1"
+    }
+  ],
+  "students": [
+    {
+      "id": "1",
+      "nombre": "Carlos",
+      "apellido": "Rodríguez",
+      "tipo_documento": "Cédula",
+      "numero_documento": "123456789",
+      "ciudad_residencia": "Bogotá",
+      "direccion": "Calle 123",
+      "telefono": "1234567890",
+      "fecha_nacimiento": "1990-01-01",
+      "sexo": "Masculino",
+      "programa_id": 1
+    },
+    {
+      "id": "2",
+      "nombre": "Ana",
+      "apellido": "Martínez",
+      "tipo_documento": "Cédula de Extranjería",
+      "numero_documento": "987654321",
+      "ciudad_residencia": "Medellín",
+      "direccion": "Carrera 456",
+      "telefono": "0987654321",
+      "fecha_nacimiento": "1992-05-15",
+      "sexo": "Femenino",
+      "programa_id": 2
+    },
+    {
+      "id": "3",
+      "nombre": "Pedro",
+      "apellido": "González",
+      "tipo_documento": "Cédula",
+      "numero_documento": "135792468",
+      "ciudad_residencia": "Cali",
+      "direccion": "Avenida 789",
+      "telefono": "1357924680",
+      "fecha_nacimiento": "1991-03-20",
+      "sexo": "Masculino",
+      "programa_id": 1
+    },
+    {
+      "id": "4",
+      "nombre": "María",
+      "apellido": "López",
+      "tipo_documento": "Cédula de Extranjería",
+      "numero_documento": "246813579",
+      "ciudad_residencia": "Cartagena",
+      "direccion": "Calle 369",
+      "telefono": "2468135790",
+      "fecha_nacimiento": "1993-08-10",
+      "sexo": "Femenino",
+      "programa_id": 2
+    },
+    {
+      "id": "5",
+      "nombre": "Juan",
+      "apellido": "Hernández",
+      "tipo_documento": "Cédula",
+      "numero_documento": "987654123",
+      "ciudad_residencia": "Barranquilla",
+      "direccion": "Carrera 987",
+      "telefono": "9876541230",
+      "fecha_nacimiento": "1990-11-05",
+      "sexo": "Masculino",
+      "programa_id": 1
+    },
+    {
+      "id": "6",
+      "nombre": "Laura",
+      "apellido": "García",
+      "tipo_documento": "Cédula de Extranjería",
+      "numero_documento": "369258147",
+      "ciudad_residencia": "Santa Marta",
+      "direccion": "Avenida 258",
+      "telefono": "3692581470",
+      "fecha_nacimiento": "1992-07-15",
+      "sexo": "Femenino",
+      "programa_id": 2
+    },
+    {
+      "id": "7",
+      "nombre": "Carlos",
+      "apellido": "Díaz",
+      "tipo_documento": "Cédula",
+      "numero_documento": "159263874",
+      "ciudad_residencia": "Pasto",
+      "direccion": "Calle 852",
+      "telefono": "1592638740",
+      "fecha_nacimiento": "1991-04-30",
+      "sexo": "Masculino",
+      "programa_id": 1
+    },
+    {
+      "id": "8",
+      "nombre": "Lucía",
+      "apellido": "Rojas",
+      "tipo_documento": "Cédula de Extranjería",
+      "numero_documento": "785296314",
+      "ciudad_residencia": "Manizales",
+      "direccion": "Carrera 147",
+      "telefono": "7852963140",
+      "fecha_nacimiento": "1993-09-20",
+      "sexo": "Femenino",
+      "programa_id": 2
+    },
+    {
+      "id": "9",
+      "nombre": "Miguel",
+      "apellido": "Pérez",
+      "tipo_documento": "Cédula",
+      "numero_documento": "369852147",
+      "ciudad_residencia": "Armenia",
+      "direccion": "Avenida 369",
+      "telefono": "3698521470",
+      "fecha_nacimiento": "1990-12-10",
+      "sexo": "Masculino",
+      "programa_id": 1
+    },
+    {
+      "id": "10",
+      "nombre": "Sofía",
+      "apellido": "Martínez",
+      "tipo_documento": "Cédula de Extranjería",
+      "numero_documento": "147852369",
+      "ciudad_residencia": "Villavicencio",
+      "direccion": "Calle 963",
+      "telefono": "1478523690",
+      "fecha_nacimiento": "1992-08-25",
+      "sexo": "Femenino",
+      "programa_id": 2
+    },
+    {
+      "id": "11",
+      "nombre": "Diego",
+      "apellido": "Gómez",
+      "tipo_documento": "Cédula",
+      "numero_documento": "852369147",
+      "ciudad_residencia": "Pereira",
+      "direccion": "Carrera 632",
+      "telefono": "8523691470",
+      "fecha_nacimiento": "1991-05-20",
+      "sexo": "Masculino",
+      "programa_id": 1
+    },
+    {
+      "id": "12",
+      "nombre": "Juliana",
+      "apellido": "Sánchez",
+      "tipo_documento": "Cédula de Extranjería",
+      "numero_documento": "963147852",
+      "ciudad_residencia": "Tunja",
+      "direccion": "Avenida 741",
+      "telefono": "9631478520",
+      "fecha_nacimiento": "1993-10-15",
+      "sexo": "Femenino",
+      "programa_id": 2
+    },
+    {
+      "id": "13",
+      "nombre": "Gabriel",
+      "apellido": "López",
+      "tipo_documento": "Cédula",
+      "numero_documento": "369258147",
+      "ciudad_residencia": "Cali",
+      "direccion": "Carrera 123",
+      "telefono": "3692581470",
+      "fecha_nacimiento": "1990-08-10",
+      "sexo": "Masculino",
+      "programa_id": 1
+    },
+    {
+      "id": "14",
+      "nombre": "María",
+      "apellido": "García",
+      "tipo_documento": "Cédula de Extranjería",
+      "numero_documento": "987654321",
+      "ciudad_residencia": "Medellín",
+      "direccion": "Calle 456",
+      "telefono": "9876543210",
+      "fecha_nacimiento": "1992-02-15",
+      "sexo": "Femenino",
+      "programa_id": 2
+    },
+    {
+      "id": "15",
+      "nombre": "Luis",
+      "apellido": "Hernández",
+      "tipo_documento": "Cédula",
+      "numero_documento": "123456789",
+      "ciudad_residencia": "Bogotá",
+      "direccion": "Avenida 789",
+      "telefono": "1234567890",
+      "fecha_nacimiento": "1991-11-05",
+      "sexo": "Masculino",
+      "programa_id": 1
+    },
+    {
+      "id": "16",
+      "nombre": "Ana",
+      "apellido": "Martínez",
+      "tipo_documento": "Cédula de Extranjería",
+      "numero_documento": "147258369",
+      "ciudad_residencia": "Cartagena",
+      "direccion": "Carrera 369",
+      "telefono": "1472583690",
+      "fecha_nacimiento": "1993-07-20",
+      "sexo": "Femenino",
+      "programa_id": 2
+    },
+    {
+      "id": "17",
+      "nombre": "Pedro",
+      "apellido": "González",
+      "tipo_documento": "Cédula",
+      "numero_documento": "987654321",
+      "ciudad_residencia": "Santa Marta",
+      "direccion": "Calle 258",
+      "telefono": "9876543210",
+      "fecha_nacimiento": "1990-12-30",
+      "sexo": "Masculino",
+      "programa_id": 1
+    },
+    {
+      "id": "18",
+      "nombre": "Sofía",
+      "apellido": "Rojas",
+      "tipo_documento": "Cédula de Extranjería",
+      "numero_documento": "369258147",
+      "ciudad_residencia": "Manizales",
+      "direccion": "Avenida 147",
+      "telefono": "3692581470",
+      "fecha_nacimiento": "1992-09-25",
+      "sexo": "Femenino",
+      "programa_id": 2
+    },
+    {
+      "id": "19",
+      "nombre": "Miguel",
+      "apellido": "Pérez",
+      "tipo_documento": "Cédula",
+      "numero_documento": "852369147",
+      "ciudad_residencia": "Armenia",
+      "direccion": "Carrera 963",
+      "telefono": "8523691470",
+      "fecha_nacimiento": "1991-04-20",
+      "sexo": "Masculino",
+      "programa_id": 1
+    },
+    {
+      "id": "20",
+      "nombre": "Lucía",
+      "apellido": "Sánchez",
+      "tipo_documento": "Cédula de Extranjería",
+      "numero_documento": "741852963",
+      "ciudad_residencia": "Villavicencio",
+      "direccion": "Calle 852",
+      "telefono": "7418529630",
+      "fecha_nacimiento": "1993-11-15",
+      "sexo": "Femenino",
+      "programa_id": 2
+    },
+    {
+      "id": "21",
+      "nombre": "Carlos",
+      "apellido": "Rodríguez",
+      "tipo_documento": "Cédula",
+      "numero_documento": "159263874",
+      "ciudad_residencia": "Pereira",
+      "direccion": "Carrera 852",
+      "telefono": "1592638740",
+      "fecha_nacimiento": "1990-03-10",
+      "sexo": "Masculino",
+      "programa_id": 1
+    },
+    {
+      "id": "22",
+      "nombre": "Laura",
+      "apellido": "López",
+      "tipo_documento": "Cédula de Extranjería",
+      "numero_documento": "258369147",
+      "ciudad_residencia": "Tunja",
+      "direccion": "Avenida 741",
+      "telefono": "2583691470",
+      "fecha_nacimiento": "1992-08-05",
+      "sexo": "Femenino",
+      "programa_id": 2
+    },
+    {
+      "id": "23",
+      "nombre": "Juan",
+      "apellido": "González",
+      "tipo_documento": "Cédula",
+      "numero_documento": "369258147",
+      "ciudad_residencia": "Cali",
+      "direccion": "Calle 123",
+      "telefono": "3692581470",
+      "fecha_nacimiento": "1991-05-20",
+      "sexo": "Masculino",
+      "programa_id": 1
+    },
+    {
+      "id": "24",
+      "nombre": "María",
+      "apellido": "Sánchez",
+      "tipo_documento": "Cédula de Extranjería",
+      "numero_documento": "963147852",
+      "ciudad_residencia": "Tunja",
+      "direccion": "Avenida 741",
+      "telefono": "9631478520",
+      "fecha_nacimiento": "1993-10-15",
+      "sexo": "Femenino",
+      "programa_id": 2
+    },
+    {
+      "id": "25",
+      "nombre": "Pedro",
+      "apellido": "Hernández",
+      "tipo_documento": "Cédula",
+      "numero_documento": "987654321",
+      "ciudad_residencia": "Santa Marta",
+      "direccion": "Calle 258",
+      "telefono": "9876543210",
+      "fecha_nacimiento": "1990-12-30",
+      "sexo": "Masculino",
+      "programa_id": 1
+    },
+    {
+      "id": "26",
+      "nombre": "Sofía",
+      "apellido": "Rojas",
+      "tipo_documento": "Cédula de Extranjería",
+      "numero_documento": "369258147",
+      "ciudad_residencia": "Manizales",
+      "direccion": "Avenida 147",
+      "telefono": "3692581470",
+      "fecha_nacimiento": "1992-09-25",
+      "sexo": "Femenino",
+      "programa_id": 2
+    },
+    {
+      "id": "27",
+      "nombre": "Miguel",
+      "apellido": "Pérez",
+      "tipo_documento": "Cédula",
+      "numero_documento": "852369147",
+      "ciudad_residencia": "Armenia",
+      "direccion": "Carrera 963",
+      "telefono": "8523691470",
+      "fecha_nacimiento": "1991-04-20",
+      "sexo": "Masculino",
+      "programa_id": 1
+    },
+    {
+      "id": "28",
+      "nombre": "Lucía",
+      "apellido": "Sánchez",
+      "tipo_documento": "Cédula de Extranjería",
+      "numero_documento": "741852963",
+      "ciudad_residencia": "Villavicencio",
+      "direccion": "Calle 852",
+      "telefono": "7418529630",
+      "fecha_nacimiento": "1993-11-15",
+      "sexo": "Femenino",
+      "programa_id": 2
+    },
+    {
+      "id": "29",
+      "nombre": "Diego",
+      "apellido": "Gómez",
+      "tipo_documento": "Cédula",
+      "numero_documento": "852369147",
+      "ciudad_residencia": "Pereira",
+      "direccion": "Carrera 632",
+      "telefono": "8523691470",
+      "fecha_nacimiento": "1991-05-20",
+      "sexo": "Masculino",
+      "programa_id": 1
+    },
+    {
+      "id": "30",
+      "nombre": "Juliana",
+      "apellido": "Sánchez",
+      "tipo_documento": "Cédula de Extranjería",
+      "numero_documento": "963147852",
+      "ciudad_residencia": "Tunja",
+      "direccion": "Avenida 741",
+      "telefono": "9631478520",
+      "fecha_nacimiento": "1993-10-15",
+      "sexo": "Femenino",
+      "programa_id": 2
+    },
+    {
+      "id": "31",
+      "nombre": "Gabriel",
+      "apellido": "López",
+      "tipo_documento": "Cédula",
+      "numero_documento": "369258147",
+      "ciudad_residencia": "Cali",
+      "direccion": "Carrera 123",
+      "telefono": "3692581470",
+      "fecha_nacimiento": "1991-05-20",
+      "sexo": "Masculino",
+      "programa_id": 1
+    },
+    {
+      "id": "32",
+      "nombre": "María",
+      "apellido": "García",
+      "tipo_documento": "Cédula de Extranjería",
+      "numero_documento": "987654321",
+      "ciudad_residencia": "Medellín",
+      "direccion": "Calle 456",
+      "telefono": "9876543210",
+      "fecha_nacimiento": "1992-02-15",
+      "sexo": "Femenino",
+      "programa_id": 2
+    },
+    {
+      "id": "33",
+      "nombre": "Andrés",
+      "apellido": "Martínez",
+      "tipo_documento": "Cédula",
+      "numero_documento": "123456789",
+      "ciudad_residencia": "Bogotá",
+      "direccion": "Calle 123",
+      "telefono": "1234567890",
+      "fecha_nacimiento": "1990-01-01",
+      "sexo": "Masculino",
+      "programa_id": 1
+    },
+    {
+      "id": "34",
+      "nombre": "Ana",
+      "apellido": "Sánchez",
+      "tipo_documento": "Cédula de Extranjería",
+      "numero_documento": "987654321",
+      "ciudad_residencia": "Medellín",
+      "direccion": "Carrera 456",
+      "telefono": "0987654321",
+      "fecha_nacimiento": "1992-05-15",
+      "sexo": "Femenino",
+      "programa_id": 2
+    },
+    {
+      "id": "35",
+      "nombre": "Alejandro",
+      "apellido": "Gómez",
+      "tipo_documento": "Cédula",
+      "numero_documento": "159357852",
+      "ciudad_residencia": "Cali",
+      "direccion": "Avenida 789",
+      "telefono": "1593578520",
+      "fecha_nacimiento": "1993-03-30",
+      "sexo": "Masculino",
+      "programa_id": 1
+    },
+    {
+      "id": "36",
+      "nombre": "Laura",
+      "apellido": "Pérez",
+      "tipo_documento": "Cédula de Extranjería",
+      "numero_documento": "456852369",
+      "ciudad_residencia": "Bogotá",
+      "direccion": "Calle 852",
+      "telefono": "4568523690",
+      "fecha_nacimiento": "1995-08-20",
+      "sexo": "Femenino",
+      "programa_id": 2
+    },
+    {
+      "id": "37",
+      "nombre": "Carlos",
+      "apellido": "Rodríguez",
+      "tipo_documento": "Cédula",
+      "numero_documento": "741258963",
+      "ciudad_residencia": "Medellín",
+      "direccion": "Carrera 147",
+      "telefono": "7412589630",
+      "fecha_nacimiento": "1994-04-10",
+      "sexo": "Masculino",
+      "programa_id": 1
+    },
+    {
+      "id": "38",
+      "nombre": "María",
+      "apellido": "Gómez",
+      "tipo_documento": "Cédula de Extranjería",
+      "numero_documento": "852963147",
+      "ciudad_residencia": "Bogotá",
+      "direccion": "Carrera 963",
+      "telefono": "8529631470",
+      "fecha_nacimiento": "1996-01-15",
+      "sexo": "Femenino",
+      "programa_id": 2
+    },
+    {
+      "id": "39",
+      "nombre": "Javier",
+      "apellido": "López",
+      "tipo_documento": "Cédula",
+      "numero_documento": "369741852",
+      "ciudad_residencia": "Pereira",
+      "direccion": "Avenida 258",
+      "telefono": "3697418520",
+      "fecha_nacimiento": "1997-07-20",
+      "sexo": "Masculino",
+      "programa_id": 1
+    },
+    {
+      "id": "40",
+      "nombre": "Laura",
+      "apellido": "Sánchez",
+      "tipo_documento": "Cédula de Extranjería",
+      "numero_documento": "987123654",
+      "ciudad_residencia": "Tunja",
+      "direccion": "Calle 147",
+      "telefono": "9871236540",
+      "fecha_nacimiento": "1998-02-25",
+      "sexo": "Femenino",
+      "programa_id": 2
+    },
+    {
+      "id": "41",
+      "nombre": "Felipe",
+      "apellido": "García",
+      "tipo_documento": "Cédula",
+      "numero_documento": "741258963",
+      "ciudad_residencia": "Cali",
+      "direccion": "Carrera 963",
+      "telefono": "7412589630",
+      "fecha_nacimiento": "1999-09-10",
+      "sexo": "Masculino",
+      "programa_id": 1
+    },
+    {
+      "id": "42",
+      "nombre": "Ana",
+      "apellido": "López",
+      "tipo_documento": "Cédula de Extranjería",
+      "numero_documento": "852963147",
+      "ciudad_residencia": "Medellín",
+      "direccion": "Calle 852",
+      "telefono": "8529631470",
+      "fecha_nacimiento": "2000-12-15",
+      "sexo": "Femenino",
+      "programa_id": 2
+    },
+    {
+      "id": "43",
+      "nombre": "Andrés",
+      "apellido": "Hernández",
+      "tipo_documento": "Cédula",
+      "numero_documento": "369852147",
+      "ciudad_residencia": "Bogotá",
+      "direccion": "Carrera 258",
+      "telefono": "3698521470",
+      "fecha_nacimiento": "1998-05-20",
+      "sexo": "Masculino",
+      "programa_id": 1
+    },
+    {
+      "id": "44",
+      "nombre": "Valentina",
+      "apellido": "Gómez",
+      "tipo_documento": "Cédula de Extranjería",
+      "numero_documento": "987654321",
+      "ciudad_residencia": "Medellín",
+      "direccion": "Calle 456",
+      "telefono": "9876543210",
+      "fecha_nacimiento": "2000-02-15",
+      "sexo": "Femenino",
+      "programa_id": 2
+    },
+    {
+      "id": "45",
+      "nombre": "Santiago",
+      "apellido": "Martínez",
+      "tipo_documento": "Cédula",
+      "numero_documento": "852369147",
+      "ciudad_residencia": "Cali",
+      "direccion": "Avenida 741",
+      "telefono": "8523691470",
+      "fecha_nacimiento": "1997-08-25",
+      "sexo": "Masculino",
+      "programa_id": 1
+    },
+    {
+      "id": "46",
+      "nombre": "Daniela",
+      "apellido": "Sánchez",
+      "tipo_documento": "Cédula de Extranjería",
+      "numero_documento": "963852741",
+      "ciudad_residencia": "Tunja",
+      "direccion": "Carrera 147",
+      "telefono": "9638527410",
+      "fecha_nacimiento": "1999-03-30",
+      "sexo": "Femenino",
+      "programa_id": 2
+    },
+    {
+      "id": "47",
+      "nombre": "Camilo",
+      "apellido": "López",
+      "tipo_documento": "Cédula",
+      "numero_documento": "741963852",
+      "ciudad_residencia": "Pereira",
+      "direccion": "Calle 963",
+      "telefono": "7419638520",
+      "fecha_nacimiento": "1996-11-10",
+      "sexo": "Masculino",
+      "programa_id": 1
+    },
+    {
+      "id": "48",
+      "nombre": "Carolina",
+      "apellido": "García",
+      "tipo_documento": "Cédula de Extranjería",
+      "numero_documento": "852741963",
+      "ciudad_residencia": "Bogotá",
+      "direccion": "Avenida 852",
+      "telefono": "8527419630",
+      "fecha_nacimiento": "1998-04-25",
+      "sexo": "Femenino",
+      "programa_id": 2
+    },
+    {
+      "id": "49",
+      "nombre": "Juan",
+      "apellido": "Pérez",
+      "tipo_documento": "Cédula",
+      "numero_documento": "369741852",
+      "ciudad_residencia": "Medellín",
+      "direccion": "Carrera 741",
+      "telefono": "3697418520",
+      "fecha_nacimiento": "2001-09-20",
+      "sexo": "Masculino",
+      "programa_id": 1
+    },
+    {
+      "id": "50",
+      "nombre": "Mariana",
+      "apellido": "Hernández",
+      "tipo_documento": "Cédula de Extranjería",
+      "numero_documento": "741258963",
+      "ciudad_residencia": "Cali",
+      "direccion": "Calle 258",
+      "telefono": "7412589630",
+      "fecha_nacimiento": "2003-12-15",
+      "sexo": "Femenino",
+      "programa_id": 2
+    },
+    {
+      "id": 51,
+      "first_name": "fabian",
+      "last_name": "mantilla",
+      "document_type": "cc",
+      "document_number": "1098807",
+      "resident_city": "bucaramanga",
+      "direction": "cra",
+      "phone": "310",
+      "birthdate": "07/06",
+      "gender": "masculino",
+      "program_id": "1"
+    }
+  ],
+  "courses": [
+    {
+      "id": "1",
+      "nombre": "Programación Avanzada",
+      "codigo": "PROG-AVA",
+      "guia_catedra": "URL_Guia_Catedra.pdf"
+    },
+    {
+      "id": "2",
+      "nombre": "Álgebra Lineal",
+      "codigo": "ALG-LI",
+      "guia_catedra": "URL_Guia_Catedra.pdf"
+    },
+    {
+      "id": "3",
+      "nombre": "Inteligencia Artificial",
+      "codigo": "INTEL-ART",
+      "guia_catedra": "URL_Guia_Catedra.pdf"
+    },
+    {
+      "id": "4",
+      "nombre": "Base de Datos",
+      "codigo": "BD",
+      "guia_catedra": "URL_Guia_Catedra.pdf"
+    },
+    {
+      "id": "5",
+      "nombre": "Cálculo Diferencial",
+      "codigo": "CALC-DIF",
+      "guia_catedra": "URL_Guia_Catedra.pdf"
+    },
+    {
+      "id": "6",
+      "nombre": "Física I",
+      "codigo": "FIS-I",
+      "guia_catedra": "URL_Guia_Catedra.pdf"
+    },
+    {
+      "id": "7",
+      "nombre": "Diseño de Algoritmos",
+      "codigo": "DISE-ALG",
+      "guia_catedra": "URL_Guia_Catedra.pdf"
+    },
+    {
+      "id": "8",
+      "nombre": "Ecuaciones Diferenciales",
+      "codigo": "ECU-DIF",
+      "guia_catedra": "URL_Guia_Catedra.pdf"
+    },
+    {
+      "id": "9",
+      "nombre": "Redes de Computadoras",
+      "codigo": "RED-COMP",
+      "guia_catedra": "URL_Guia_Catedra.pdf"
+    },
+    {
+      "id": "10",
+      "nombre": "Programación Orientada a Objetos",
+      "codigo": "POO",
+      "guia_catedra": "URL_Guia_Catedra.pdf"
+    },
+    {
+      "id": "11",
+      "nombre": "Estadística",
+      "codigo": "EST",
+      "guia_catedra": "URL_Guia_Catedra.pdf"
+    },
+    {
+      "id": "12",
+      "nombre": "Sistemas Operativos",
+      "codigo": "SIST-OP",
+      "guia_catedra": "URL_Guia_Catedra.pdf"
+    },
+    {
+      "id": "13",
+      "nombre": "Cálculo Integral",
+      "codigo": "CALC-INT",
+      "guia_catedra": "URL_Guia_Catedra.pdf"
+    },
+    {
+      "id": "14",
+      "nombre": "Inglés Avanzado",
+      "codigo": "ING-AVA",
+      "guia_catedra": "URL_Guia_Catedra.pdf"
+    },
+    {
+      "id": "15",
+      "nombre": "Física Cuántica",
+      "codigo": "FIS-CUAN",
+      "guia_catedra": "URL_Guia_Catedra.pdf"
+    },
+    {
+      "id": "16",
+      "nombre": "Historia del Arte",
+      "codigo": "HIST-AR",
+      "guia_catedra": "URL_Guia_Catedra.pdf"
+    },
+    {
+      "id": "17",
+      "nombre": "Microeconomía",
+      "codigo": "MICRO-ECON",
+      "guia_catedra": "URL_Guia_Catedra.pdf"
+    },
+    {
+      "id": "18",
+      "nombre": "Programación Web",
+      "codigo": "PROG-WEB",
+      "guia_catedra": "URL_Guia_Catedra.pdf"
+    },
+    {
+      "id": "19",
+      "nombre": "Diseño Gráfico",
+      "codigo": "DIS-GRA",
+      "guia_catedra": "URL_Guia_Catedra.pdf"
+    },
+    {
+      "id": "20",
+      "nombre": "Teoría de la Música",
+      "codigo": "TEO-MUS",
+      "guia_catedra": "URL_Guia_Catedra.pdf"
+    }
+  ],
+  "classrooms": [
+    {
+      "id": "1",
+      "capacidad_alumnos": 30,
+      "edificio": "Edificio A",
+      "piso": 2,
+      "numero_identificacion": "S001"
+    },
+    {
+      "id": "2",
+      "capacidad_alumnos": 25,
+      "edificio": "Edificio B",
+      "piso": 1,
+      "numero_identificacion": "S002"
+    },
+    {
+      "id": "3",
+      "capacidad_alumnos": 20,
+      "edificio": "Edificio C",
+      "piso": 3,
+      "numero_identificacion": "S003"
+    },
+    {
+      "id": "4",
+      "capacidad_alumnos": 35,
+      "edificio": "Edificio D",
+      "piso": 2,
+      "numero_identificacion": "S004"
+    },
+    {
+      "id": "5",
+      "capacidad_alumnos": 28,
+      "edificio": "Edificio E",
+      "piso": 1,
+      "numero_identificacion": "S005"
+    },
+    {
+      "id": "6",
+      "capacidad_alumnos": 32,
+      "edificio": "Edificio F",
+      "piso": 3,
+      "numero_identificacion": "S006"
+    },
+    {
+      "id": "7",
+      "capacidad_alumnos": 22,
+      "edificio": "Edificio G",
+      "piso": 2,
+      "numero_identificacion": "S007"
+    },
+    {
+      "id": "8",
+      "capacidad_alumnos": 29,
+      "edificio": "Edificio H",
+      "piso": 1,
+      "numero_identificacion": "S008"
+    },
+    {
+      "id": "9",
+      "capacidad_alumnos": 27,
+      "edificio": "Edificio I",
+      "piso": 3,
+      "numero_identificacion": "S009"
+    },
+    {
+      "id": "10",
+      "capacidad_alumnos": 31,
+      "edificio": "Edificio J",
+      "piso": 2,
+      "numero_identificacion": "S010"
+    },
+    {
+      "id": "11",
+      "capacidad_alumnos": 26,
+      "edificio": "Edificio K",
+      "piso": 1,
+      "numero_identificacion": "S011"
+    },
+    {
+      "id": "12",
+      "capacidad_alumnos": 33,
+      "edificio": "Edificio L",
+      "piso": 3,
+      "numero_identificacion": "S012"
+    },
+    {
+      "id": "13",
+      "capacidad_alumnos": 29,
+      "edificio": "Edificio M",
+      "piso": 2,
+      "numero_identificacion": "S013"
+    },
+    {
+      "id": "14",
+      "capacidad_alumnos": 27,
+      "edificio": "Edificio N",
+      "piso": 1,
+      "numero_identificacion": "S014"
+    },
+    {
+      "id": "15",
+      "capacidad_alumnos": 31,
+      "edificio": "Edificio O",
+      "piso": 3,
+      "numero_identificacion": "S015"
+    },
+    {
+      "id": "16",
+      "capacidad_alumnos": 25,
+      "edificio": "Edificio P",
+      "piso": 2,
+      "numero_identificacion": "S016"
+    },
+    {
+      "id": "17",
+      "capacidad_alumnos": 28,
+      "edificio": "Edificio Q",
+      "piso": 1,
+      "numero_identificacion": "S017"
+    },
+    {
+      "id": "18",
+      "capacidad_alumnos": 30,
+      "edificio": "Edificio R",
+      "piso": 3,
+      "numero_identificacion": "S018"
+    },
+    {
+      "id": "19",
+      "capacidad_alumnos": 32,
+      "edificio": "Edificio S",
+      "piso": 2,
+      "numero_identificacion": "S019"
+    },
+    {
+      "id": "20",
+      "capacidad_alumnos": 24,
+      "edificio": "Edificio T",
+      "piso": 1,
+      "numero_identificacion": "S020"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "1",
+      "curso_id": 1,
+      "codigo": "PROG-AVA-PER-2024",
+      "creditos": 4,
+      "profesor_id": 1,
+      "cupos_disponibles": 20,
+      "programa_id": 1,
+      "horario_clases": [
+        {
+          "dia": "Lunes",
+          "hora_inicio": "08:00",
+          "hora_fin": "10:00",
+          "salon_id": 1
+        },
+        {
+          "dia": "Martes",
+          "hora_inicio": "08:00",
+          "hora_fin": "10:00",
+          "salon_id": 1
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "curso_id": 2,
+      "codigo": "ALG-LI-PER-2024",
+      "creditos": 3,
+      "profesor_id": 2,
+      "cupos_disponibles": 15,
+      "programa_id": 2,
+      "horario_clases": [
+        {
+          "dia": "Lunes",
+          "hora_inicio": "10:00",
+          "hora_fin": "12:00",
+          "salon_id": 1
+        },
+        {
+          "dia": "Jueves",
+          "hora_inicio": "10:00",
+          "hora_fin": "12:00",
+          "salon_id": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "course_id": "4",
+      "code": "1",
+      "credits": "4",
+      "teacher_id": "5",
+      "space_available": "20",
+      "program_id": "1",
+      "class_schedule": [
+        {
+          "day": "Wednesday",
+          "start_hour": "12:00",
+          "end_hour": "13:00",
+          "classroom_id": "1"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "course_id": "1",
+      "code": "1",
+      "credits": "4",
+      "teacher_id": "1",
+      "space_available": "20",
+      "program_id": "1",
+      "class_schedule": [
+        {
+          "day": "Tuesday",
+          "start_hour": "07:00",
+          "end_hour": "08:00",
+          "classroom_id": "1"
+        }
+      ]
+    }
+  ],
+  "tuitions": [
+    {
+      "id": "1",
+      "estudiante_id": 1,
+      "asignatura_id": 1,
+      "periodo_id": 1,
+      "precio": 4000
+    },
+    {
+      "id": "2",
+      "estudiante_id": 1,
+      "asignatura_id": 2,
+      "periodo_id": 1,
+      "precio": 3300
+    },
+    {
+      "id": "3",
+      "student_id": "1",
+      "asignatura_id": [
+        "1"
+      ],
+      "periodo_id": "1",
+      "precio": "4000"
+    },
+    {
+      "id": "4",
+      "student_id": "1",
+      "asignatura_id": [
+        "1"
+      ],
+      "periodo_id": "2",
+      "precio": "4000"
+    }
+  ]
+}

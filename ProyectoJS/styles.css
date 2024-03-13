@@ -1,0 +1,181 @@
+/* Estilos personalizados */
+
+/* Cambios en la tipografía */
+body {
+    font-family: Georgia, serif;
+    background-image: url('/images/OIG1.jpeg'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 50vh;
+    padding-top: 50px; /* Ajusta el valor según el tamaño de la barra de navegación */
+    
+}
+/* Estilos personalizados */
+.dropdown-menu-right {
+    right: 0;
+    left: auto;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0.125em;
+  }
+
+  .dropdown:hover > .dropdown-menu {
+    display: block;
+    margin-top: 0.125em;
+  }
+
+
+/* Estilos del encabezado */
+.navbar-brand {
+    font-size: 25px;
+    font-weight: bold;
+    color: rgba(0, 0, 255, 0.932); /* Color azul para el título */
+}
+.navbar-brand img {
+    max-height: 50px;
+}
+
+/* Estilos del formulario de matriculación */
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+
+}
+#programs{
+    display: flex;
+    padding-top: 10vh;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: bold;
+}
+
+.btn-primary {
+    width: 100%;
+}
+
+.box {
+    padding: 20px;
+    color: rgb(236, 229, 229);
+}
+
+.undergraduate {
+    background-color: #009eb3; /* Teal color */
+}
+
+.postgraduate {
+    background-color: #c593db; /* Pink color */
+}
+
+h1 {
+   font-size: 24px;
+   margin-bottom: 20px;
+}
+
+button {
+   margin-right: 10px;
+   padding: 10px 20px;
+   border: none;
+   color: rgb(0, 0, 0);
+    
+}
+
+#col-1-img{
+    background-image: url(/images/llibrary.jpg);
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 280px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+#col-2-img{
+    background-image: url(/images/alumni.png);
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 280px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+
+}
+
+#col-3-img{
+    background-image: url(/images/business.jpg);
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 280px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+
+}
+
+#col-4-img{
+    background-image: url(/images/business.jpg);
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 280px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+
+}
+
+#col-5-img{
+    background-image: url(/images/research.jpg);
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 280px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+
+}
+
+#col-6-img{
+    background-image: url(/images/sport.jpg);
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 280px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+
+}
+
+/* Estilo base del botón */
+.btn {
+    padding: 10px 20px;
+    background-color: #638990;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+/* css para el boton */
+.btn:hover {
+    transform: scale(1.1); /* 110% del boton */
+}
+
+
