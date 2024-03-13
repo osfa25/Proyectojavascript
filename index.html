@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Departamento de Policía</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/styles.css">
+
+</head>
+
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">
+                <img id="initiallogo" src="img/OIG3..jpeg" class="img-fluid" alt="">
+                <span>Departamento de policia</span>
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto ml-auto mb-2">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" onclick="citizenForm()">Citizen</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#">culpable</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                            aria-expanded="false">
+                            Ciudadano
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a id="Ciudadano" class="dropdown-item" href="#" onclick="showCiudadano()">Mostrar
+                                    Ciudadano</a></li>
+                            <li>
+                                <hr class="dropdown-divider">
+                            </li>
+                            <ul class="dropdown-menu">
+                                <li><a id="Culpable" class="dropdown-item" href="#" onclick="analizeForm()">Mostrar
+                                        Culpable</a></li>
+                                <li>
+                                    <hr class="dropdown-divider">
+                                </li>
+                        </ul>
+                    </li>
+
+
+
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+    <main id="main-container" class="container-fluid">
+        <div id="home">
+            <div id="principal" class="container-fluid mt-5">
+                <h2><b>Departamento de policia</b></h2>
+
+
+
+            </div>
+
+        </div>
+        </div>
+
+        </div>
+
+
+        <div id="mainciudadano" class="mt-5 text-primary font-weight-bold"></div>
+        <div id="formularioContainer" style="display: none;"></div>  
+
+
+    </main>
+    <!-- Bootstrap JavaScript Libraries -->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+        integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+        crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
+        integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
+        crossorigin="anonymous"></script>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="js/utils.js"></script>
+    <script src="js/ciudadano.js"></script>
+    <script src="js/culpable.js"></script>
+    <!-- <script src="js/analize.js "></script> -->
+    <script src="js/app.js"></script>
+</body>
+
+</html>
